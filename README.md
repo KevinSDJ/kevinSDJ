@@ -16,7 +16,7 @@ Soon I will add them.....
 - ![](https://img.icons8.com/color/48/000000/html-5--v1.png)![](https://img.icons8.com/color/48/000000/css3.png)![](https://img.icons8.com/color/48/000000/javascript--v1.png)![](https://img.icons8.com/color/48/000000/sass.png)![](https://img.icons8.com/color/48/000000/react-native.png)![](https://img.icons8.com/color/48/000000/redux.png)
 
 - Backend development using **Node,Express,Sequelize,PostgreSQL,Jwt**
-- ![](https://img.icons8.com/fluency/48/000000/node-js.png) <img src="https://dsm01pap002files.storage.live.com/y4mPBX85HYt3_bHyUNdYG5dGcSNBeH05W_w8swLERAxm8Qzjz6lHHuC2BvnA_cKJCBBgenRsX7elRiAZeJZja_O1j6WxPaXiAiojZ2_EmedlBum-a4W4Hvd7a7uBOt8QhEUb86TiFhZ1CxUnf1zHV-ZR1uJ0iwBgobBqrzEV7zLOSi1idayabKaAt0QQkUmuWuW?width=256&height=256&cropmode=none"  width="48"/>
+- ![](https://img.icons8.com/fluency/48/000000/node-js.png) <img src="https://dsm01pap002files.storage.live.com/y4mPBX85HYt3_bHyUNdYG5dGcSNBeH05W_w8swLERAxm8Qzjz6lHHuC2BvnA_cKJCBBgenRsX7elRiAZeJZja_O1j6WxPaXiAiojZ2_EmedlBum-a4W4Hvd7a7uBOt8QhEUb86TiFhZ1CxUnf1zHV-ZR1uJ0iwBgobBqrzEV7zLOSi1idayabKaAt0QQkUmuWuW?width=256&height=256&cropmode=none" width="48" borderRadius="10"/>
 
 ## 👋 Reach out to me 
 - 💬 Ask me about anything.
