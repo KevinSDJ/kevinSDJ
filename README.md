@@ -13,7 +13,8 @@ Soon I will add them.....
 
 ## ⚡ Technologies 
 - Front-end development using **Html, Javascript,Css/Sass/styled-component,React/Redux**
-- ![](https://img.icons8.com/color/48/000000/react-native.png)![](https://img.icons8.com/color/48/000000/redux.png)![](https://img.icons8.com/color/48/000000/javascript--v1.png)![](https://img.icons8.com/color/48/000000/sass.png)![](https://img.icons8.com/color/48/000000/html-5--v1.png) 
+- ![](https://img.icons8.com/color/48/000000/html-5--v1.png)![](https://img.icons8.com/color/48/000000/css3.png)![](https://img.icons8.com/color/48/000000/javascript--v1.png)![](https://img.icons8.com/color/48/000000/sass.png)![](https://img.icons8.com/color/48/000000/react-native.png)![](https://img.icons8.com/color/48/000000/redux.png)
+
 - Backend development using **Node,Express,Sequelize,PostgreSQL,Jwt**
 
 ## 👋 Reach out to me 
