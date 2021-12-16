@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-sebastian-de-jesus-b53187185/)](https://www.linkedin.com/in/kevin-sebastian-de-jesus-b53187185/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sebadjkevin@gmail.com)](mailto:sebadjkevin@gmail.com)
 
-I am Suyash. I am from Vellore,Tamil Nadu and currently doing my B.Tech from Vellore Institute of Technology 🏫.I love to do web development and open to learning new technologies.
+I'm kevin, I'm from Argentina and I'm 24 years old, I'm finishing soyHenry's bootcamp as a Full-Stack Developer, I'm curious about new technologies and those to come, and although I take my time, I give my best, 100 % autodidact.
 
 ## 💻 Projects
 * [COVID 19 TRACKER (Graph Display and Clickable Globe UI)](https://suyash-srivastava.github.io/suyashsrivastava/COVID19)
