@@ -12,7 +12,7 @@ I'm kevin, I'm from Argentina and I'm 24 years old, I'm finishing soyHenry's boo
 Soon I will add them.....
 
 ## ⚡ Technologies 
-- Front-end development using **Html, Javascript,Css/Sass/styled-component,React/Redux** [!](https://img.icons8.com/color/96/000000/react-native.png)
+- Front-end development using **Html, Javascript,Css/Sass/styled-component,React/Redux** [![](https://img.icons8.com/color/96/000000/react-native.png)]
 - Backend development using **Node,Express,Sequelize,PostgreSQL,Jwt**
 
 ## 👋 Reach out to me 
