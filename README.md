@@ -8,11 +8,8 @@
 I'm kevin, I'm from Argentina and I'm 24 years old, I'm finishing soyHenry's bootcamp as a Full-Stack Developer, I'm curious about new technologies and those to come, and although I take my time, I give my best, 100 % autodidact.
 
 ## 💻 Projects
-* [COVID 19 TRACKER (Graph Display and Clickable Globe UI)](https://suyash-srivastava.github.io/suyashsrivastava/COVID19)
-* [Weather App (from OpenWeather API)](https://suyash-srivastava.github.io/suyashsrivastava/Weather)
-* [Notes App](https://suyash-srivastava.github.io/suyashsrivastava/Notes)
-* [Website for NGO (In Development Phase)](https://suyash-srivastava.github.io/suyashsrivastava/Suyash)
-* [Portfolio](https://suyash-srivastava.github.io/suyashsrivastava/Suyash)
+
+Soon I will add them.....
 
 ## ⚡ Technologies 
 - Front-end development using **Html, Javascript,Css/Sass/styled-component,React/Redux**
