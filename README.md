@@ -8,9 +8,9 @@
 I'm kevin, I'm from Argentina and I'm 24 years old, I'm finishing soyHenry's bootcamp as a Full-Stack Developer, I'm curious about new technologies and those to come, and although I take my time, I give my best, 100 % autodidact.
 
 ## 💻 Projects
--Weather App(Henry bootcamp),code:https://github.com/KevinSDJ/Weather-App,preview:https://weather-app-ksdj.netlify.app/
+-Weather App(Henry bootcamp),[code](https://github.com/KevinSDJ/Weather-App),[preview](https://weather-app-ksdj.netlify.app/)
 
--Movie-App(Henry bootcamp),code:https://github.com/KevinSDJ/Movie_App_Henry_bootcamp,preview:https://zen-goldstine-e3e493.netlify.app/
+-Movie-App(Henry bootcamp),[code](https://github.com/KevinSDJ/Movie_App_Henry_bootcamp),[preview](https://zen-goldstine-e3e493.netlify.app/)
 
 ## ⚡ Technologies 
 - Front-end development using **Html, Javascript,Css/Sass/styled-component,React/Redux**
