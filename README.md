@@ -20,7 +20,6 @@ Soon I will add them.....
 
 ## 👋 Reach out to me 
 - 💬 Ask me about anything.
-- 🖼️ Portfolio site: [Portfolio](#)
 - 💎 Fun fact: You lose automatically if you dont try.
 
 ![Suyash github stats](https://github-readme-stats.vercel.app/api?username=KevinSDJ&hide=["issues"]&show_icons=true)
