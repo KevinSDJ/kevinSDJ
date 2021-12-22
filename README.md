@@ -9,7 +9,6 @@ I'm kevin, I'm from Argentina and I'm 24 years old, I'm finishing soyHenry's boo
 
 ## 💻 Projects
 -Weather App(Henry bootcamp),[code](https://github.com/KevinSDJ/Weather-App),[preview](https://weather-app-ksdj.netlify.app/)
-
 -Movie-App(Henry bootcamp),[code](https://github.com/KevinSDJ/Movie_App_Henry_bootcamp),[preview](https://zen-goldstine-e3e493.netlify.app/)
 
 ## ⚡ Technologies 
