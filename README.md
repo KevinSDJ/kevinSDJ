@@ -10,7 +10,7 @@ I'm kevin, I'm from Argentina and I'm 24 years old, I'm finishing soyHenry's boo
 ## 💻 Projects
 - Weather App(Henry bootcamp),[code](https://github.com/KevinSDJ/Weather-App),[preview](https://weather-app-ksdj.netlify.app/)
 - Movie-App(Henry bootcamp),[code](https://github.com/KevinSDJ/Movie_App_Henry_bootcamp),[preview](https://movie-app-henry-bootcamp.vercel.app/)
-- App-Dogs-PI(Henry bootcamp),[code](https://github.com/KevinSDJ/PI_HENRY_DOGS)
+- App-Dogs-PI(Henry bootcamp),[code](https://github.com/KevinSDJ/PI_HENRY_DOGS),[preview](https://dogs-app-client.vercel.app/)
 
 ## ⚡ Technologies 
 - Front-end development using **Html, Javascript,Css/Sass/styled-component,React/Redux**
