@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-sebastian-de-jesus-b53187185/)](https://www.linkedin.com/in/kevin-sebastian-de-jesus-b53187185/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sebadjkevin@gmail.com)](mailto:sebadjkevin@gmail.com)
 
-I'm kevin, I'm from Argentina and I'm 25 years old, I'm finishing soyHenry's bootcamp as a Full-Stack Developer, I'm curious about new technologies and those to come, and although I take my time, I give my best, 100 % autodidact.
+I'm Kevin, I'm from Argentina and I'm 25 years old, I'm a Full-Stack Developer, I'm curious about new technologies and those to come, and although I take my time, I give my best, 100% self-taught.
 
 ## 💻 Projects
 - Weather App(Henry bootcamp),[code](https://github.com/KevinSDJ/Weather-App),[preview](https://weather-app-ksdj.netlify.app/)
