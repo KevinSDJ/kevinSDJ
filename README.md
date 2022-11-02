@@ -1,29 +1,68 @@
-<h2> Hello welcome <<i>coders</i>></h2>
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://discord.gg/qUbApEc">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://twitter.com/geeky_abhiz">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/abhisheknaiidu">
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.reddit.com/user/geekyabhi/">
+  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://leetcode.com/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
 
-<img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-sebastian-de-jesus-b53187185/)](https://www.linkedin.com/in/kevin-sebastian-de-jesus-b53187185/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sebadjkevin@gmail.com)](mailto:sebadjkevin@gmail.com)
+<br />
 
-I'm a Full-Stack Developer, I'm curious about new technologies and those to come, and although I take my time, I give my best, 100% self-taught.
+Hi, I'm [Abhishek Naidu](https://abhisheknaidu.tech), a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
 
-## 💻 Projects
-- Weather App(Henry bootcamp),[code](https://github.com/KevinSDJ/Weather-App),[preview](https://weather-app-ksdj.netlify.app/)
-- Movie-App(Henry bootcamp),[code](https://github.com/KevinSDJ/Movie_App_Henry_bootcamp),[preview](https://movie-app-henry-bootcamp.vercel.app/)
-- App-Dogs-PI(Henry bootcamp),[code](https://github.com/KevinSDJ/PI_HENRY_DOGS),[preview](https://dogs-app-client.vercel.app/)
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+**Talking about Personal Stuffs:**
 
-## ⚡ Technologies 
-- Front-end development using **Html, Javascript,Css/Sass/styled-component,React/Redux**
-- ![](https://img.icons8.com/color/48/000000/html-5--v1.png)![](https://img.icons8.com/color/48/000000/css3.png)![](https://img.icons8.com/color/48/000000/javascript--v1.png)![](https://img.icons8.com/color/48/000000/sass.png)![](https://img.icons8.com/color/48/000000/react-native.png)![](https://img.icons8.com/color/48/000000/redux.png)
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I am currently learning java with Spring Ecosystem; 
+- 💬 Ask me about anything, I am happy to help;
+- 📝[Resume](https://drive.google.com/file/d/1obgcQHcW0BZWfLSCiM8lkfolg5EN9Hck/view)
 
-- Backend development using **Node,Express,Sequelize,PostgreSQL,Jwt**
-- ![](https://img.icons8.com/fluency/48/000000/node-js.png) <img src="https://dsm01pap002files.storage.live.com/y4mPBX85HYt3_bHyUNdYG5dGcSNBeH05W_w8swLERAxm8Qzjz6lHHuC2BvnA_cKJCBBgenRsX7elRiAZeJZja_O1j6WxPaXiAiojZ2_EmedlBum-a4W4Hvd7a7uBOt8QhEUb86TiFhZ1CxUnf1zHV-ZR1uJ0iwBgobBqrzEV7zLOSi1idayabKaAt0QQkUmuWuW?width=256&height=256&cropmode=none" width="48"/> <img src="https://dsm01pap002files.storage.live.com/y4mi2Rzi_myegniLfHVAPwHGmGSpQpejw80Vqfgnf6TbbEDAx1-lZsrlpTGmJThZ1CXomrX5KxwvYq8q3O3Ymr48HvTUC-7R50sItQBvanEuo-LDG5eQbRs5duWe11w7C0q4LhhRJ2OiSdC1H6cpa_gdqMGUmmN1oR-7XVMKS1pV0i-_zk1wMRtpQuUMAYtF4O2?width=48&height=48&cropmode=none"/> ![](https://img.icons8.com/color/48/000000/postgreesql.png) ![](https://img.icons8.com/color/48/000000/java-web-token.png)
+**Languages and Tools:**  
 
-- ## Others 
-- <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48"/>&nbsp;<img src="https://miro.medium.com/max/318/1*p1TndLk3UsGPBsM7qHPZIw.png" width="48"/>&nbsp;![](https://img.icons8.com/color/48/000000/git.png)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/redux/redux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-## 👋 Reach out to me 
-- 💬 Ask me about anything.
-- 💎 Fun fact: You lose automatically if you dont try.
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+Vue.js       7 hrs 41 mins   ████████████▓░░░░░░░░░░░░   50.67 % 
+C++          4 hrs 42 mins   ███████▓░░░░░░░░░░░░░░░░░   31.04 % 
+Markdown     52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+JavaScript   42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Git Config   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+```
+<!--END_SECTION:waka-->
 
-![github stats](https://github-readme-stats.vercel.app/api?username=KevinSDJ&hide=["issues"]&show_icons=true)
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+</details>
+
