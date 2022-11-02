@@ -2,8 +2,8 @@
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://leetcode.com/abhisheknaiidu/">
-  <img align="left" alt="kevinSDJ Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+<a href="https://hackerrank.com/abhisheknaiidu/">
+  <img align="left" alt="kevinSDJ Hackerrank" width="22px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=KevinSDJ.KevinSDJ)
