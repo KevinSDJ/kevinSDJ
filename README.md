@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/kevinDejesus/">
   <img align="left" alt="kevin' LinkdeIN" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin-2.png" />
 </a>
-<a href="https://hackerrank.com/abhisheknaiidu/">
+<a href="https://hackerrank.com/sebadjkevin/">
   <img align="left" alt="kevinSDJ Hackerrank" width="22px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" />
 </a>
 
