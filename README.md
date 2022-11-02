@@ -36,6 +36,11 @@ Hi, I'm [Kevin De jesus](https://portfolio-next-kappa-seven.vercel.app), a Full 
 <code><img height="28" src="https://img.icons8.com/color/48/000000/python--v1.png"></code>
 
 
+
+
+
+
+
 <details>
 <summary>📈 My GitHub Stats</summary>
 
