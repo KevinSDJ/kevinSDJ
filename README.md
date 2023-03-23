@@ -19,7 +19,7 @@ Hi, I'm [Kevin De jesus](https://portfolio-next-kappa-seven.vercel.app), a Full 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I am currently learning java with Spring Ecosystem; 
 - 💬 Ask me about anything, I am happy to help;
-- 📝[Resume](https://drive.google.com/file/d/1obgcQHcW0BZWfLSCiM8lkfolg5EN9Hck/view)
+- 📝[Resume](https://drive.google.com/file/d/1mgGxYofTfpRM_HFGnh-6BpckycSekSTP/view?usp=sharing)
 
 **Languages and Tools:**  
 
