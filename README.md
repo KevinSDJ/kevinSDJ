@@ -10,14 +10,14 @@
 
 <br />
 
-Hi, I'm [Kevin De jesus](https://portfolio-next-kappa-seven.vercel.app), a Full Stack Developer 🚀 from Argentina. Beside's programming, I enjoy eating, drawing and video games.
+Hi, I'm [Kevin De jesus](https://wizkode23.vercel.app), a Full Stack Developer 🚀 from Argentina. Beside's programming, I enjoy eating, drawing and video games.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I am currently learning java with Spring Ecosystem; 
+- 🌱 I am currently learning ? ; 
 - 💬 Ask me about anything, I am happy to help;
 - 📝[Resume](https://docs.google.com/document/d/1OihcwwWaEJjQTptxCj2DB_eyTSyAM4Z0/edit?usp=sharing&ouid=102400706710759639828&rtpof=true&sd=true)
 
