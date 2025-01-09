@@ -10,7 +10,7 @@
 
 <br />
 
-Hi, I'm [Kevin De jesus](https://wizkode23.vercel.app), a Full Stack Developer 🚀 from Argentina. Beside's programming, I enjoy eating, drawing and video games.
+Hi, I'm [Kevin De jesus](https://wizkode23.vercel.app), a Developer 🚀 from Argentina. Beside's programming, I enjoy eating, drawing and video games.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -34,6 +34,8 @@ Hi, I'm [Kevin De jesus](https://wizkode23.vercel.app), a Full Stack Developer �
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="28" src="https://img.icons8.com/fluency/48/000000/docker.png"></code>
 <code><img height="28" src="https://img.icons8.com/color/48/000000/mysql.png"></code>
+<code><img height="28" src="https://img.icons8.com/color/48/000000/c++.png"></code>
+<code><img height="28" src="https://img.icons8.com/color/48/000000/erlang.png"></code>
 
 ***
 
