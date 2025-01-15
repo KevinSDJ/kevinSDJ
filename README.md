@@ -7,12 +7,10 @@
 
 <br />
 
-  
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I am currently learning ? ; 
-- 💬 Ask me about anything, I am happy to help;
+- 🌱 I am currently learning ; 
 - 📝[Resume] curriculum? I still don't need that shit.
 
 **Languages and Tools:**  
