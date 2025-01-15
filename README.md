@@ -7,9 +7,6 @@
 
 <br />
 
-Hi, I'm [Kevin De jesus](https://wizkode23.vercel.app), a Developer 🚀 from Argentina. Beside's programming, I enjoy eating, drawing and video games.
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
