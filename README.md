@@ -3,7 +3,6 @@
   <img align="left" alt="kevin' LinkdeIN" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin-2.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=KevinSDJ.KevinSDJ)
 
 <br />
 
