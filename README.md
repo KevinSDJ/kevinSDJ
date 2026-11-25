@@ -1,37 +1,68 @@
-### Hey there
+# Hi, I'm Kevin 👋
+
+**Software Developer | Mechatronics Engineering Student | Embedded Systems Enthusiast**
+
+I'm a software developer with a strong interest in backend engineering, software architecture, and low-level programming.
+
+Currently studying Mechatronics Engineering, I'm expanding my knowledge into electronics, embedded systems, firmware development, and automation.
+
+I enjoy understanding how things work under the hood, building practical solutions, and exploring the intersection between software and hardware.
+
+---
+
+### 🧠 Areas of Interest
+
+- **Backend Engineering:** Building applications and REST APIs with Java and Spring.
+- **Software Development:** Working with JavaScript, TypeScript, Node.js, and React.
+- **Embedded Systems:** Exploring C/C++, Arduino, ESP32, and firmware development.
+- **Automation & Robotics:** Combining electronics, programming, and engineering to build intelligent systems.
+
+### 🛠️ Technologies & Tools
+
+**Backend Development**
+
+`Java` · `Spring Boot` · `Spring Security` · `Spring Data JPA` · `Hibernate` · `WebFlux` · `Maven` · `Gradle` · `JUnit` · `Mockito`
+
+**Frontend & JavaScript Ecosystem**
+
+`JavaScript` · `TypeScript` · `Node.js` · `Express` · `React`
+
+**Databases**
+
+`PostgreSQL` · `MySQL`
+
+**Embedded Systems & Programming**
+
+`C` · `C++` · `Arduino` · `ESP32`
+
+**Tools & Infrastructure**
+
+`Git` · `Docker`
+
+---
+
+### 🚀 Currently Exploring
+
+- Embedded C/C++ and firmware architecture.
+- Electronics fundamentals and microcontroller programming.
+- Automation, robotics, and hardware-software integration.
+- Software architecture and backend engineering.
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KevinSDJ&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSDJ&layout=compact&theme=gotham&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
+### 📫 Connect with me
+
 <a href="https://www.linkedin.com/in/kevinDejesus/">
-  <img align="left" alt="kevin' LinkdeIN" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin-2.png" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-
-<br />
-
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I am currently learning ; 
-- 📝[Resume] curriculum? I still don't need that shit.
-
-**Languages and Tools:**  
-
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height='28' style='background:transparent;' src="https://img.icons8.com/fluency/48/000000/java-coffee-cup-logo.png"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="28" src="https://img.icons8.com/color/48/000000/spring-logo.png"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="28" src="https://img.icons8.com/fluency/48/000000/docker.png"></code>
-<code><img height="28" src="https://img.icons8.com/color/48/000000/mysql.png"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/erlang.png"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png"></code>
-
-***
-
-***
-
-<details>
-<summary>📈 My GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KevinSDJ&show_icons=true&theme=gotham" alt="KevinSDJ" />
-
-</details>
 
